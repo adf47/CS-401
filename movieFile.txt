@@ -1,0 +1,33 @@
+8
+Star Wars
+George Lucas
+20th Century Fox
+7.98E8
+Jaws
+Steven Spielberg
+Universal
+4.706E8
+The Return of the King
+Peter Jackson
+New Line
+1.1292E9
+The Dark Knight
+Christopher Nolan
+Warner Bros
+2.444444400004E17
+Finding Nemo
+John Lasseter
+Pixar
+2.4567891E8
+Shutter Island
+Martin Scorcess
+Legendary
+1.234567891E10
+Saw
+Unknown
+Twisted
+1.2345678E7
+Batman
+Batman
+Batman
+1.2345678910111213E20

@@ -1,0 +1,63 @@
+What is my REAL name?
+4
+Nino
+Nooonoooo
+Nono
+Antonino
+3
+0
+0
+What is my nickname?
+4
+Nino
+Nooonoooo
+Nono
+Antonino
+2
+0
+0
+What color is the sky (To the naked eye)? 
+2
+Black
+Blue
+1
+0
+0
+Who is your favorite professor?
+3
+Dr. Ramirez
+Dr. John
+Professor Doctor Patrick
+0
+0
+0
+Who is the president of the United States?
+5
+Hilary Clinton
+John Ramirez
+Donald Trump
+Barack Obama
+Antonino Febbraro
+3
+0
+0
+Who owns Microsoft?
+4
+Steve Jobs
+Carson Palmer
+Antonino Febbraro
+Bill Gates
+3
+0
+0
+What school is the best school in the ACC?
+6
+Miami
+Clemson
+Boston College
+UNC
+Pitt
+Duke
+4
+0
+0
